@@ -1,0 +1,10 @@
+{
+  "name": "opencv-document-scanner",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Document Scanner with OpenCV.js and Dynamsoft Document Viewer",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  }
+}
